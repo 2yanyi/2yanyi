@@ -1,3 +1,3 @@
 ### Hey 👋, I'm xzyan
 
-![](assets/header_.png)
+![](https://github.com/xzyan/xzyan/blob/master/assets/header_.png)
