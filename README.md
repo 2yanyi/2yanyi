@@ -13,7 +13,7 @@ fmt.Printf("%s\n", profile)
 
 me := map[string]string{
 	"Name":    "Yan yingsong",
-	"Job":     "Software Engineer",
+	"Job":     "Engineers and technical managers",
 	"Company": "DBAPPSecurity IC",
 }
 
