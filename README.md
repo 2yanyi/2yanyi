@@ -7,17 +7,15 @@ profile := `
 Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 
 Here are some quick things about me:
+
+- FullName: Yan Yingsong
+- Company:  DBAPPSecurity Co., Ltd
+- Location: China HangZhou
+- Email:    17112yan@gmail.com
+- MyJob:    Engineers and technical managers
 `
 
 fmt.Printf("%s\n", profile)
-
-me := map[string]string{
-	"Name":    "Yan yingsong",
-	"Job":     "Engineers and technical managers",
-	"Company": "DBAPPSecurity IC",
-}
-
-for k, v := range me {
-	fmt.Printf("- %s: %s \n", k, v)
-}
 ```
+
+![skills](http://xzyan.github.io/skills.svg)
