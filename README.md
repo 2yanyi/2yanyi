@@ -1,6 +1,6 @@
 ### Hey 👋, I'm xzyan
 
-![](https://github.com/xzyan/xzyan/blob/master/assets/header_.png)
+![header](http://xzyan.github.io/header.png)
 
 ```go
 profile := `
