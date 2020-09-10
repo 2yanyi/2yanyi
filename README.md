@@ -22,4 +22,4 @@ fmt.Printf("%s\n", profile)
 ```
 
 ![skills](http://xzyan.github.io/skills.svg)
-![skills](http://xzyan.github.io/hobbies.svg)
+![hobbies](http://xzyan.github.io/hobbies.svg)
