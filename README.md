@@ -1,7 +1,9 @@
 ### Hey 👋, I'm Matsuwin
 
+<!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matsuwin&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matsuwin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ```go
 profile := `
@@ -19,5 +21,7 @@ map[string]string{
 fmt.Printf("%s\n", profile)
 ```
 
+<!--
 ![skills](http://xzyan.github.io/skills.svg)
 ![hobbies](http://xzyan.github.io/hobbies.svg)
+-->
