@@ -1,4 +1,4 @@
-### Hey 👋, I'm Matsuwin
+### Hey 👋, I'm matsuwin
 
 ```go
 var profile = `
