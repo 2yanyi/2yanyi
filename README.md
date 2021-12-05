@@ -18,11 +18,11 @@ var about = map[string]string{
 
 > Development library
 
-📦 **console** : *Asynchronous, fast, hierarchical and automatically compressed log records.*
+📦 **closecmdpopup** : *关闭 CMD 弹窗，适用于 Go 制作的 exe 程序。*
+<br>📦 **console** : *Asynchronous, fast, hierarchical and automatically compressed log records.*
 <br>📦 **siggroup** : *Asynchronous task parallel controller based on system semaphore*
 <br>📦 **downgrade** : *Basic fuse downgrade and retry functions。*
-<br>📦 **closecmdpopup** : *关闭 CMD 弹窗，适用于 Go 制作的 exe 程序。*
+<br>📦 **bufregulator** : *Buffer capacity regulator*
 <br>📦 **webcore** : *dev...*
 <br>📦 **boltut** : *dev...*
 <br>📦 **mqlut** : *dev...*
-<br>📦 **bufregulator** : *dev...*
