@@ -20,7 +20,7 @@ var about = map[string]string{
 
 | Language | Package | Comment|
 |:---:|---|---|
-<img height="14" src="https://go.dev/images/go-logo-blue.svg"> | [proctop](https://github.com/matsuwin/proctop) | *适用于 Linux 的性能分析工具，实时显示进程的资源占用状态，类似于 TOP。具备 Java 增强功能。<br>A performance analysis tool for Linux that displays the resource occupancy status of the process in real time, similar to TOP. With Java enhancements.*
+<img height="14" src="https://go.dev/images/go-logo-blue.svg"> | [proctop](https://github.com/matsuwin/proctop) | *适用于 Linux 的性能分析工具，实时显示进程的资源占用状态，类似于 TOP。具备 Java 增强。<br>A performance analysis tool for Linux that displays the resource occupancy status of the process in real time, similar to TOP. With Java enhancements.*
 <img height="14" src="https://go.dev/images/go-logo-blue.svg"> | [closecmdpopup](https://github.com/matsuwin/closecmdpopup) | *关闭 CMD 弹窗，适用于 Go 制作的 exe 程序。<br>Close the CMD pop-up window, applicable to the exe program made by Go.*
 <img height="14" src="https://go.dev/images/go-logo-blue.svg"> | [siggroup](https://github.com/matsuwin/siggroup) | *基于系统信号量的异步任务并行控制器，灵感来自于 errgroup。<br>Asynchronous task parallel controller based on system semaphore.*
 <img height="14" src="https://go.dev/images/go-logo-blue.svg"> | [console](https://github.com/matsuwin/console) | *异步、快速、分层和自动压缩的日志记录。<br>Asynchronous, fast, hierarchical and automatically compressed log records.*
