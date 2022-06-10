@@ -20,5 +20,5 @@ var about = map[string]string{
 
 | Language | Package | Comment|
 |:---:|---|---|
-<img height="14" src="https://go.dev/images/go-logo-blue.svg"> | [signalgroup](https://github.com/matsuwin/signalgroup) | *基于操作系统信号量的异步任务并行控制器，思想借鉴 errgroup。<br>Asynchronous task parallel controller based on system semaphore.*
 <img height="14" src="https://go.dev/images/go-logo-blue.svg"> | [proctop](https://github.com/matsuwin/proctop) | *🔥 为了 Linux 平台开发的性能优化分析工具。*
+<img height="14" src="https://go.dev/images/go-logo-blue.svg"> | [signalgroup](https://github.com/matsuwin/signalgroup) | *Async work parallel controller based on system signals.*
