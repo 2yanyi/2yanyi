@@ -15,8 +15,8 @@
 ![zh_CN](https://img.shields.io/badge/zh_CN.UTF8-f00?logoColor=white&style=flat-square)
 ![bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)
 ![powershell](https://img.shields.io/badge/Powershell-5391FE?logo=powershell&logoColor=white&style=flat-square)
-![d](https://img.shields.io/badge/D-DMD-A42E2B?logo=d&logoColor=white&style=flat-square)
-![go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square)
+![d](https://img.shields.io/badge/GDC-A42E2B?logo=d&logoColor=white&style=flat-square)
+![go](https://img.shields.io/badge/Google-00ADD8?logo=go&logoColor=white&style=flat-square)
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat-square)
 
